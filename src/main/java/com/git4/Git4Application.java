@@ -10,6 +10,7 @@ public class Git4Application {
 		SpringApplication.run(Git4Application.class, args);
 		System.out.println("Hello World");
 		System.out.println("bug 3202 fixed");
+		System.out.println("bug 3202 refixed");
 	}
 
 }
