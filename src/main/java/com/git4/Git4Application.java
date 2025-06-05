@@ -12,7 +12,9 @@ public class Git4Application {
 		System.out.println("bug 3202 fixed");
 		System.out.println("bug 3202 refixed");
 		System.out.println("Hello1");
+		System.out.println("Hello2");
 		System.out.println("Hello 3");
+		
 	}
 
 }
