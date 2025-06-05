@@ -11,6 +11,7 @@ public class Git4Application {
 		System.out.println("Hello World");
 		System.out.println("bug 3202 fixed");
 		System.out.println("bug 3202 refixed");
+		System.out.println("Hello1");
 	}
 
 }
